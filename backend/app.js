@@ -11,7 +11,7 @@ const db = mysql.createConnection({
     host: '72.60.219.201',
     port: 3306, // Default MySQL port
     user: 'ciauser', // Replace with your MySQL username
-    password: 'C!auser@123$', // Replace with your MySQL password
+    password: 'C!auser@123$%', // Replace with your MySQL password
     database: 'company'
 });
 
